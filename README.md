@@ -1,2 +1,2 @@
-# designs
+# Designs
 All UX related work 
